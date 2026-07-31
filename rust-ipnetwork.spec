@@ -5,8 +5,8 @@
 %global crate ipnetwork
 
 Name:           rust-%{crate}
-Version:        0.14.0
-Release:        4%{?dist}
+Version:        0.21.1
+Release:        1%{?dist}
 Summary:        Library to work with IP CIDRs in Rust, heavily WIP
 
 # Upstream license specification: Apache-2.0
